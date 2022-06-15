@@ -50,7 +50,7 @@ def give_anekdot(keyword):
 
 print('fun give_anekdot ok')
 
-bot = telebot.TeleBot('5144361495:AAHFbxjvjIr5the5K19fRvhhwyvJMK6w46c')
+bot = telebot.TeleBot('bot_token')
 
 print('bot ok')
 
